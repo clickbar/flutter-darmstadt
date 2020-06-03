@@ -1,3 +1,6 @@
 [submodule "flutter-darmstadt-01-animations-everywhere"]
 	path = flutter-darmstadt-01-animations-everywhere
 	url = https://github.com/ahawlitschek/flutter-darmstadt-01-animations-everywhere.git
+[submodule "flutter-darmstadt-02-complex-layouts"]
+	path = flutter-darmstadt-02-complex-layouts
+	url = https://github.com/ahawlitschek/flutter-darmstadt-02-complex-layouts.git
