@@ -5,17 +5,16 @@ The project is used as base repository that bundles all Flutter Darmstadt reposi
 
 1. Clone this repository  
 
-	 **HTTPS**
+	 **HTTPS**\
 	`git clone https://github.com/clickbar/flutter-darmstadt.git`
 	
-	**SSH**
+	**SSH**\
 	`git clone git@github.com:clickbar/flutter-darmstadt.git`
 	
-	The repository will be cloned with all submodule folders. But the folders will be empty.
+	The repository will be cloned with all submodule folders. But the folders will be empty. Run step 2 and 3 to init and update the submodules.
 
 2. Init the submodules 
 
-	Init the submodules with the following command
 	`git submodule init`
 
 3. Update the content of the submodules
