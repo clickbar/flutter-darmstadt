@@ -4,3 +4,6 @@
 [submodule "flutter-darmstadt-02-complex-layouts"]
 	path = flutter-darmstadt-02-complex-layouts
 	url = https://github.com/ahawlitschek/flutter-darmstadt-02-complex-layouts.git
+[submodule "flutter-darmstadt-03-bloc-alternative"]
+	path = flutter-darmstadt-03-bloc-alternative
+	url = https://github.com/marius-h/stacked_meetup
